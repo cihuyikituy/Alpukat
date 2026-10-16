@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Stem -->
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M47,8 L53,8 L52,18 L48,18 Z" />
+
+    <!-- Leaf on Stem -->
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M52,12 C58,10 64,12 62,18 C56,18 52,15 52,12 Z" />
+
+    <!-- Outer Dark Green Skin -->
+    <path
+        android:fillColor="#1B4D2E"
+        android:pathData="M50,16 C35,16 28,30 25,48 C21,68 32,90 50,90 C68,90 79,68 75,48 C72,30 65,16 50,16 Z" />
+
+    <!-- Inner Green Layer -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M50,20 C38,20 32,32 29,48 C26,65 35,85 50,85 C65,85 74,65 71,48 C68,32 62,20 50,20 Z" />
+
+    <!-- Highlight Reflection -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M40,26 C36,32 33,42 32,52 C31,58 33,58 34,52 C35,42 38,33 42,27 C43,25 41,25 40,26 Z" />
+
+</vector>

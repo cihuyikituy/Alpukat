@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Alpukat</string>
+    <string name="alpukat_select">Ketuk alpukat untuk membelahnya!</string>
+    <string name="alpukat_select_content_description">Alpukat utuh</string>
+    <string name="alpukat_split">Ketuk alpukat yang terbelah untuk memasukannya ke blender!</string>
+    <string name="alpukat_split_content_description">Alpukat terbelah</string>
+    <string name="alpukat_blend">Ketuk blender untuk memblander alpukat!</string>
+    <string name="alpukat_blend_1">Ketuk lagi!</string>
+    <string name="alpukat_blend_2">Sekali lagi!</string>
+    <string name="alpukat_blend_3">Sedikit lagi!</string>
+    <string name="alpukat_blend_4">Terus ketuk!</string>
+    <string name="alpukat_blend_content_description">Alpukat dalam blender</string>
+    <string name="alpukat_drink">Ketuk jus alpukat untuk meminumnya!</string>
+    <string name="alpukat_drink_content_description">Segelas jus alpukat</string>
+    <string name="alpukat_empty">Ketuk gelas kosong untuk mengambil alpukat baru!</string>
+    <string name="alpukat_empty_content_description">Gelas kosong</string>
+</resources>

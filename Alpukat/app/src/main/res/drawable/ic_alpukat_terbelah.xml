@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Outer Dark Green Skin -->
+    <path
+        android:fillColor="#1B4D2E"
+        android:pathData="M50,12 C32,12 24,28 20,48 C15,70 28,94 50,94 C72,94 85,70 80,48 C76,28 68,12 50,12 Z" />
+
+    <!-- Outer Light Green Rim -->
+    <path
+        android:fillColor="#66BB6A"
+        android:pathData="M50,16 C35,16 28,30 24,48 C20,67 31,90 50,90 C69,90 80,67 76,48 C72,30 65,16 50,16 Z" />
+
+    <!-- Creamy Flesh Inside (Yellow Green) -->
+    <path
+        android:fillColor="#DCEDC8"
+        android:pathData="M50,20 C38,20 32,32 28,48 C24,65 34,86 50,86 C66,86 76,65 72,48 C68,32 62,20 50,20 Z" />
+
+    <!-- Seed Cavity Ring / Highlight around seed -->
+    <path
+        android:fillColor="#C0CA33"
+        android:pathData="M50,42 C38,42 38,68 50,68 C62,68 62,42 50,42 Z" />
+
+    <!-- Seed (Brown Pit) -->
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M50,45 C41,45 41,65 50,65 C59,65 59,45 50,45 Z" />
+
+    <!-- Seed Highlight -->
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M46,48 C43,51 43,57 45,60 C44,57 44,52 47,49 Z" />
+
+</vector>

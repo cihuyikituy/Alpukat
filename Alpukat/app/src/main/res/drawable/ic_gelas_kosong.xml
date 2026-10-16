@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Straw inside Empty Glass -->
+    <path
+        android:fillColor="#FF80AB"
+        android:pathData="M58,8 L64,6 L46,84 L40,84 Z" />
+
+    <!-- Glass Outer Rim & Body -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M25,20 L75,20 L66,88 L34,88 Z" />
+
+    <!-- Glass Interior Transparent Space -->
+    <path
+        android:fillColor="#F5F5F5"
+        android:pathData="M27,22 L73,22 L64.5,86 L35.5,86 Z" />
+
+    <!-- Glass Shine / Reflection Lines -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,25 L36,25 L30,80 L28,80 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,25 L40,25 L34,75 L33,75 Z" />
+
+    <!-- Chocolate / Juice Remnants at Very Bottom -->
+    <path
+        android:fillColor="#558B2F"
+        android:pathData="M35.5,82 C42,80 58,84 64.5,82 L64.5,86 L35.5,86 Z" />
+    <path
+        android:fillColor="#3E2723"
+        android:pathData="M38,78 C42,76 46,80 50,78 L48,82 L38,82 Z" />
+
+    <!-- Glass Rim & Bottom Solid Base -->
+    <path
+        android:fillColor="#CFD8DC"
+        android:pathData="M25,18 L75,18 L75,22 L25,22 Z" />
+    <path
+        android:fillColor="#B0BEC5"
+        android:pathData="M32,88 L68,88 L66,94 L34,94 Z" />
+
+</vector>

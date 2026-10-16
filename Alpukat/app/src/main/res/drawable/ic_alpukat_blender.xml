@@ -1,0 +1,70 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Blender Lid Center Cap -->
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M44,10 L56,10 L56,14 L44,14 Z" />
+
+    <!-- Blender Lid Main -->
+    <path
+        android:fillColor="#263238"
+        android:pathData="M28,14 L72,14 L68,22 L32,22 Z" />
+
+    <!-- Blender Glass Jug Outline / Body -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M32,22 L68,22 L60,75 L40,75 Z" />
+
+    <!-- Inner Glass Shading / Content Background -->
+    <path
+        android:fillColor="#CFD8DC"
+        android:pathData="M33,24 L67,24 L59.5,73 L40.5,73 Z" />
+
+    <!-- Avocado Blend Mixture inside Jug -->
+    <path
+        android:fillColor="#7CB342"
+        android:pathData="M36,45 C42,42 58,47 64,44 L59.5,73 L40.5,73 Z" />
+
+    <!-- Darker Avocado Puree / Swirls inside -->
+    <path
+        android:fillColor="#558B2F"
+        android:pathData="M40,55 C48,50 52,60 58,56 L59.5,73 L40.5,73 Z" />
+
+    <!-- Avocado Chunks / Pit Pieces floating in Blender -->
+    <path
+        android:fillColor="#DCEDC8"
+        android:pathData="M42,35 C42,30 48,30 48,35 C48,40 42,40 42,35 Z" />
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M52,38 C52,34 57,34 57,38 C57,42 52,42 52,38 Z" />
+
+    <!-- Jug Handle on Left Side -->
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M28,26 L32,26 L32,32 L22,35 L22,58 L32,62 L32,68 L18,63 L18,32 Z" />
+
+    <!-- Measurement Markings on Glass -->
+    <path
+        android:fillColor="#78909C"
+        android:pathData="M58,30 L64,30 L64,32 L58,32 Z M59,38 L63,38 L63,40 L59,40 Z M57,46 L62,46 L62,48 L57,48 Z M58,54 L61,54 L61,56 L58,56 Z" />
+
+    <!-- Blender Base Collar -->
+    <path
+        android:fillColor="#263238"
+        android:pathData="M38,75 L62,75 L64,80 L36,80 Z" />
+
+    <!-- Blender Motor Base -->
+    <path
+        android:fillColor="#455A64"
+        android:pathData="M34,80 L66,80 L70,95 L30,95 Z" />
+
+    <!-- Speed Button / Switch Dial -->
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M46,85 C46,82 54,82 54,85 C54,88 46,88 46,85 Z" />
+
+</vector>
